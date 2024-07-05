@@ -1,6 +1,15 @@
 # COD-CHAMELEON-Classes
 
-The name of the class I labelled for the CHAMELEON dataset.
+The class names I labelled for the CHAMELEON dataset.
+
+```bibtex
+@misc{COD-CHAMELEON-Classes,
+    title = {Class names of the {CHAMELEON} dataset},
+    author = {Youwei Pang},
+    year = {2024},
+    url = {https://github.com/lartpang/COD-CHAMELEON-Classes},
+}
+```
 
 ## licence
 
